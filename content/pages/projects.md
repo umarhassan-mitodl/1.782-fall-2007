@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides examples of student work on the course projects.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -91,4 +89,4 @@ Mary Harding, Navid Rahimi, and Katherine Vater
 
 {{< tableclose >}}
 
-Students also wrote blogs during their January field work detailing their experiences. The blogs can be found [here](http://web.mit.edu/watsan/studentblogs.html).
+Students also wrote blogs during their January field work detailing their experiences. The blogs can be found {{% resource_link "c8f98080-1a87-45cd-82a2-b708a28e78b5" "here" %}}.
